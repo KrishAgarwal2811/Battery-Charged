@@ -10,7 +10,7 @@
 
 ## About
 
-This is a small work of me in which I have a done an animation of a battery getting charged form 0% to 100% in just 30 seconds. But the main twist comes after this. I don't want to give you the spoiler, if you want to really know the surprise afer that then you have see the code.
+This is a small work of me in which I have a done animation of a battery getting charged form 0% to 100% in just 30 seconds. But the main twist comes after this. I don't want to give you the spoiler, if you want to know what's the surprise then you have see the code.
 
 ## Link to the code
 
@@ -18,11 +18,11 @@ This is a small work of me in which I have a done an animation of a battery gett
 
 ## Releases
 
-- **v3.5** - In this update i used another alert libray called swalt.js
+- **v3.5** - In this update I used another alert library called swalt.js
 
 ---
 
-- **v3.4** - In thus update i have included swal (sweat alert) which makes it look cooler.
+- **v3.4** - In this update, I have included swal (sweat alert) which makes it look cooler.
 
 ---
 
