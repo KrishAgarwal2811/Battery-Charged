@@ -10,7 +10,7 @@
 
 ## About
 
-This is a small work of me in which I have a done animation of a battery getting charged form 0% to 100% in just 30 seconds. But the main twist comes after this. I don't want to give you the spoiler, if you want to know what's the surprise then you have see the code.
+This is a small work of me in which I have done an animation of a battery getting charged form 0% to 100% in just 30 seconds. But the main twist comes after this. I don't want to give you the spoiler, if you want to know what's the surprise then you have to see the code.
 
 ## Link to the code
 
