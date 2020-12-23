@@ -3,7 +3,7 @@
 ## Table of content
 
 1. [About](#about)
-2. [Link to code](#link-to-code)
+2. [Link to the code](#link-to-the-code)
 3. [Releases](#releases)
 4. [What's the use](#whats-the-use)
 5. [Libraries Used](#libraries-Used)
