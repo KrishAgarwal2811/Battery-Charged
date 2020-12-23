@@ -2,11 +2,11 @@
 
 ## Table of content
 
-1. [About](https://krishagarwal2811.github.io/Battery-Charged/#about)
-2. [Link to code](https://krishagarwal2811.github.io/Battery-Charged/#link-to-code)
-3. [Releases](https://krishagarwal2811.github.io/Battery-Charged/#releases)
-4. [What's the use](https://krishagarwal2811.github.io/Battery-Charged/#whats-the-use)
-5. [Libraries Used](https://krishagarwal2811.github.io/Battery-Charged/#libraries-Used)
+1. [About](#about)
+2. [Link to code](#link-to-code)
+3. [Releases](#releases)
+4. [What's the use](#whats-the-use)
+5. [Libraries Used](#libraries-Used)
 
 ## About
 
